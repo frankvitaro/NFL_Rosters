@@ -5414,7 +5414,7 @@ Rutgers,Mike Lonsdorf,OL,1,10
 Rutgers,Sam Howson,OL,1,10
 Rutgers,Kyle Bolin,QB,4,5
 Rutgers,Giovanni Rescigno,QB,3,5
-Rutgers,Frank Vitaro,QB,1,10
+Rutgers,Jonathon Davis,QB,1,10
 Rutgers,Gus Edwards,RB,4,5
 Rutgers,Robert Martin,RB,4,5
 Rutgers,Trey Sneed,RB,2,5
